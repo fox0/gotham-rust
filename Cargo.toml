@@ -1,0 +1,9 @@
+[package]
+name = "gotham-rust"
+version = "0.1.0"
+authors = ["fox0 <>"]
+edition = "2018"
+publish = false
+
+[dependencies]
+gotham = "0.5.0"
